@@ -1,4 +1,4 @@
 git-lecture
 ===========
 
-Jag gillar cola.
+Jag gillar glass.
